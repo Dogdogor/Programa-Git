@@ -1,14 +1,3 @@
-
-
 Nombre: Stephany Romero Toro
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[A[A[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[C[C[C[C[C[C[C[C[C[C[C[CNombre: Stephany Romero Toro
-
-[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[cat > kotlin.txt
-
-[A[A[C[C[C[C[C[C[C[C[C[Ccat > kotlin.txt
-
-[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[~/Programa-Git
-
-
-
+Correo: stephanyrotoropsicologa@gmail.com
 
